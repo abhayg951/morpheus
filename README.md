@@ -229,12 +229,6 @@ Authorization: Token your-auth-token
 
 ---
 
-## **Postman Collection**
-
-Use the attached Postman collection to test the APIs. Import the `form_builder.postman_collection.json` file into Postman.
-
----
-
 ## **Future Enhancements**
 
 1. Add support for additional question types (e.g., Ranking, File Upload).
